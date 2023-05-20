@@ -1,4 +1,0 @@
-#Sat May 20 16:22:56 WIB 2023
-base.0=C\:\\Users\\pc\\Documents\\Workspace\\Aplication-Development\\cordocitor\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
-path.0=classes.dex
-renamed.0=classes.dex
