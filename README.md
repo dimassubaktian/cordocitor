@@ -1,16 +1,12 @@
-# cordocitor
+<div align="center">
+<img src="assets\images\icon.png?raw=true" width=50%>
+</div>
 
-A new Flutter project.
+# CORDOCITOR
+## _Simple QRcode & Barcode Scanner_
+Cordocitor is an app that can help you to read value of QRCode/Barcode in a fastest way.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshoot
+<div align="center">
+<img src="/assets/images/screenshoot/1?raw=true" width=30%>&nbsp;<img src="assets\images\screenshoot\2.jpg?raw=true" width=30%>&nbsp;<img src="assets\images\screenshoot\3.jpg?raw=true" width=30%>&nbsp;<img src="assets\images\screenshoot\4.jpg?raw=true" width=30%>
+</div>
