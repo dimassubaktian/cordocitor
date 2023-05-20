@@ -1,0 +1,4 @@
+#Sat May 20 16:39:41 WIB 2023
+base.0=C\:\\Users\\pc\\Documents\\Workspace\\Aplication-Development\\cordocitor\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
